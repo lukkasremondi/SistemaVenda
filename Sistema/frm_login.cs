@@ -31,7 +31,7 @@ namespace Sistema
             if (user > 0)
             {
                 this.logado = true;
-                var formulario = new frm_ponto(txt_usuario.Text);
+                var formulario = new frm_menu(txt_usuario.Text);
                 this.Dispose();
                 formulario.ShowDialog();
             }

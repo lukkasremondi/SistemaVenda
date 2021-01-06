@@ -124,14 +124,13 @@
             this.btn_cad_categorias.Image = global::Sistema.Properties.Resources.faturas_40x40;
             this.btn_cad_categorias.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btn_cad_categorias.Location = new System.Drawing.Point(266, 87);
-            this.btn_cad_categorias.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.btn_cad_categorias.Margin = new System.Windows.Forms.Padding(6);
             this.btn_cad_categorias.Name = "btn_cad_categorias";
             this.btn_cad_categorias.Size = new System.Drawing.Size(141, 142);
             this.btn_cad_categorias.TabIndex = 2;
             this.btn_cad_categorias.Text = "Cadastrar Categorias";
             this.btn_cad_categorias.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_cad_categorias.UseVisualStyleBackColor = false;
-            this.btn_cad_categorias.Visible = false;
             this.btn_cad_categorias.Click += new System.EventHandler(this.btn_cad_categorias_Click);
             // 
             // btn_cad_produtos
@@ -145,14 +144,13 @@
             this.btn_cad_produtos.Image = global::Sistema.Properties.Resources.cadastro_produtos_40_x_40;
             this.btn_cad_produtos.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.btn_cad_produtos.Location = new System.Drawing.Point(59, 87);
-            this.btn_cad_produtos.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.btn_cad_produtos.Margin = new System.Windows.Forms.Padding(6);
             this.btn_cad_produtos.Name = "btn_cad_produtos";
             this.btn_cad_produtos.Size = new System.Drawing.Size(141, 142);
             this.btn_cad_produtos.TabIndex = 1;
             this.btn_cad_produtos.Text = "Cadastrar Produtos";
             this.btn_cad_produtos.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_cad_produtos.UseVisualStyleBackColor = false;
-            this.btn_cad_produtos.Visible = false;
             this.btn_cad_produtos.Click += new System.EventHandler(this.btn_cad_produtos_Click);
             // 
             // button1
@@ -166,13 +164,14 @@
             this.button1.Image = global::Sistema.Properties.Resources.clock_ok;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button1.Location = new System.Drawing.Point(469, 87);
-            this.button1.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button1.Margin = new System.Windows.Forms.Padding(6);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(141, 142);
             this.button1.TabIndex = 3;
             this.button1.Text = "Registrar Ponto";
             this.button1.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Visible = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
@@ -187,7 +186,7 @@
             this.button2.Image = global::Sistema.Properties.Resources.suggestion;
             this.button2.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
             this.button2.Location = new System.Drawing.Point(669, 87);
-            this.button2.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.button2.Margin = new System.Windows.Forms.Padding(6);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(141, 142);
             this.button2.TabIndex = 4;
@@ -231,7 +230,7 @@
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "frm_menu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Menu Principal";
