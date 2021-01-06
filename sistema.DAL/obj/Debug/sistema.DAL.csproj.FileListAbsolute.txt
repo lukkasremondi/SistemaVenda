@@ -1,0 +1,12 @@
+C:\Sistema Venda\Sistema\sistema.DAL\bin\Debug\sistema.DAL.dll.config
+C:\Sistema Venda\Sistema\sistema.DAL\bin\Debug\sistema.DAL.dll
+C:\Sistema Venda\Sistema\sistema.DAL\bin\Debug\sistema.DAL.pdb
+C:\Sistema Venda\Sistema\sistema.DAL\obj\Debug\sistema.DAL.dll
+C:\Sistema Venda\Sistema\sistema.DAL\obj\Debug\sistema.DAL.pdb
+C:\Users\lukka\Documents\Meu Sistema\Sistema\sistema.DAL\bin\Debug\sistema.DAL.dll.config
+C:\Users\lukka\Documents\Meu Sistema\Sistema\sistema.DAL\bin\Debug\sistema.DAL.dll
+C:\Users\lukka\Documents\Meu Sistema\Sistema\sistema.DAL\bin\Debug\sistema.DAL.pdb
+C:\Users\lukka\Documents\Meu Sistema\Sistema\sistema.DAL\obj\Debug\sistema.DAL.csprojAssemblyReference.cache
+C:\Users\lukka\Documents\Meu Sistema\Sistema\sistema.DAL\obj\Debug\sistema.DAL.csproj.CoreCompileInputs.cache
+C:\Users\lukka\Documents\Meu Sistema\Sistema\sistema.DAL\obj\Debug\sistema.DAL.dll
+C:\Users\lukka\Documents\Meu Sistema\Sistema\sistema.DAL\obj\Debug\sistema.DAL.pdb
